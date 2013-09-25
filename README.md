@@ -1,1 +1,1 @@
-Go to http://bsuttor.github.com
+Go to http://bsuttor.github.io
